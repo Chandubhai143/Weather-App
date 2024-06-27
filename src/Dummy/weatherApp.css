@@ -1,0 +1,25 @@
+.weather{
+    background-image: url("/public/image3.jpg");
+    height: 50vh;
+    display: flex;
+    align-items:center;
+    flex-direction: column;
+    justify-content:center ;
+    
+   
+}
+.heading{
+    color: aliceblue;
+    font-weight: 700;
+}
+.weatherResultBox{
+   margin: auto;
+   width: 500px;
+   height: 300px; 
+}
+.weatherIcon{
+    margin-top: 20px;
+    width: 100px;
+    height: 100px;
+
+}
